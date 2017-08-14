@@ -1,0 +1,5 @@
+﻿  PR3.cpp
+c:\matemáticas e ingeniería informática\carrera\fundamentos de la programación\prácticas\práctica 3. 2048\practica 3\pr3.cpp(75): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\matemáticas e ingeniería informática\carrera\fundamentos de la programación\prácticas\práctica 3. 2048\practica 3\pr3.cpp(101): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  LINK : no se encontró C:\Matemáticas e Ingeniería Informática\Carrera\Fundamentos de la programación\Prácticas\Práctica 3. 2048\Practica 3\Debug\Practica 3.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Practica 3.vcxproj -> C:\Matemáticas e Ingeniería Informática\Carrera\Fundamentos de la programación\Prácticas\Práctica 3. 2048\Practica 3\Debug\Practica 3.exe
